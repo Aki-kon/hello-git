@@ -1,1 +1,1 @@
-print ('hello gitsaasasa')
+print ('hello GIT 1')
